@@ -48,7 +48,9 @@ title: 我要自己建立第二个post
 
 <hr>
 
-![wow](/image/a.jpg)
+![wow]({{site.url}}/image/a.jpg)
+
+
 
 
 
